@@ -1,4 +1,4 @@
-# Lab Week 2 Submission
+# Lab Week 1 Submission
 
 My submission for CPSC, Section 02, Lab Week 1
 
