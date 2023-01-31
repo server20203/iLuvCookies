@@ -1,10 +1,9 @@
-# iLuvCookies
-#Lab 00 Week 1 Submission
-Ths is a test repo for cpsc 131-02
+# Lab Week 2 Submission
 
-My submission for CPSC 131, Section 02, Lab Week1
+My submission for CPSC, Section 02, Lab Week 1
 
-#My Information
-*Name: Eric Siqueiros
-*CWID: 886213164
-*Email: Eirc Siqueiros
+# My Information
+
+* Name: Eric Siqueiros
+* CWID: 886213164
+* Email: erices2020@csu.fullerton.edu
